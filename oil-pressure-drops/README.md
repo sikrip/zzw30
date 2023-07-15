@@ -28,8 +28,8 @@ This picture shows the two "versions" of moroso pans:
 
 I contacted moroso and here is their reply:
 
-`There have been a handful of revisions done to the 20970 over the years so it is difficult to say what you have without seeing some photos of the inside and outside of the pan.
-All I can say is that the current design has a diamond type baffle in it to help with oil control going around turns in both directions.  For what it's worth, we do not typically get such complaints about this pan on the 1ZZ/2ZZ engines.  So it's very possible that you have a older version of this pan.`
+> There have been a handful of revisions done to the 20970 over the years so it is difficult to say what you have without seeing some photos of the inside and outside of the pan.
+> All I can say is that the current design has a diamond type baffle in it to help with oil control going around turns in both directions.  For what it's worth, we do not typically get such complaints about this pan on the 1ZZ/2ZZ engines.  So it's very possible that you have a older version of this pan.
 
 ## Possible solutions
 
