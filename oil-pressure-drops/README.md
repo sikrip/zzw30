@@ -38,9 +38,9 @@ I could keep this pan and install an [accusump](https://www.cantonracingproducts
 But it will add complexity on the oiling system with more failure points. It would also add weight to the car.
 
 ### Oil Pan Upgrade
-According to moroso [the newer versions](https://www.komo-tec.com/en/lotus-exige/mk2-toyota/engine-components/406/moroso-alloy-baffled-oil-pan-elise/exige-2zz) of this pan do not suffer with similar problems. Other possible upgrades are 
+According to moroso [the newer versions](https://www.komo-tec.com/en/lotus-exige/mk2-toyota/engine-components/406/moroso-alloy-baffled-oil-pan-elise/exige-2zz) (~940e including shipping) of this pan do not suffer with similar problems. Other possible upgrades are 
 
-* [InoKinetic GPAN3](https://www.inokinetic.com/eliseexige/gpan3)
-* [BOE Fabrications TOC v1.1](https://www.boefab.com/products/toc-wet-sump-oil-pan-v1-1)
+* [InoKinetic GPAN3](https://www.inokinetic.com/eliseexige/gpan3) (~900e including shipping and import charges)
+* [BOE Fabrications TOC v1.1](https://www.boefab.com/products/toc-wet-sump-oil-pan-v1-1) (~900e including shipping and import charges)
 
 So maybe the best route should be to upgrade the pan and then if the problem persists to add an accusump in the system.
