@@ -2,13 +2,15 @@
 
 ## Intro
 I spent the entire summer of 2023 building aero components for my zzw30. By entire summer I mean 1 to 1.5 hours a day 
-from min June to the start of August. Slow progress each day but by the end of this period I have crafted all the components
+from mid June to the start of August. Slow progress each day but by the end of this period I have crafted all the components
 that I had in mind. Well, almost all :)
+
+So let's see what I crafted.
 
 ## Front of the car
 
 ### Radiator
-Up front, I started by tilting the radiator forward in order to have an angle "just like the WRC car". The idea is to 
+Up front, I started by tilting the radiator forward in order to have an angle "just like a WRC car". The idea is to 
 help the air be extracted from the hood. All air will go up and through the hood, so the turbulent air underneath the car
 will be reduced. The bracing and the hoses routing of the radiator had to be changed:
 
@@ -28,7 +30,7 @@ take advantage of the low pressure air of this area and achieve a good level of 
 ![hood-vent-1](./hood-vent-1.png)
 ![hood-vent-2](./hood-vent-2.png)
 
-The power steering pump was relocated in order for the extraction vent to be installed.
+The power steering pump was relocated in order for the "extraction box" to be installed.
 
 ![hood-vent-3](./hood-vent-3.png)
 
@@ -60,8 +62,8 @@ that mounts on existing holes of the under-body.
 ## Rear of the car
 
 ### Diffuser
-The under-body cover extends until the back of the car, and at about 55cm form the edge of
-the rear bumper, I have added a diffuser with 12* of angle at the left and right edges and 
+The under-body cover extends until the back of the car using 0.8mm aluminum sheet. At about 55cm form the edge of
+the rear bumper, I used 1.4mm aluminum sheets to create a diffuser with 12* of angle at the left and right edges and 
 quite less angle in the middle because of the layout of my exhaust.
 
 In the making:
@@ -74,9 +76,8 @@ On the car:
 <photo pending>
 
 ### Rear wing
-I purchased I used wing and mount brackets from an AW11 owner (thanks AW11 community) and 
-made the necessary changes in order to mount it on the zzw30. The wing is a 9lives Big Wang
-66" wide. 
+I purchased I used wing and mounting pylons from an AW11 owner (thanks to the AW11 community) and 
+made the necessary changes in order to mount it on the zzw30. The wing is a 9lives Big Wang 66" wide. 
 
 ![wing-1](wing-1.png)
 ![wing-2](wing-2.png)
