@@ -41,11 +41,42 @@ And here are some shots of the hood openings.
 The splitter is a fairly simple one. Completely flat with a small angle of attack of 1 degree.
 The front lip from Luxurypart is used instead of an air dam. The splitter is made out of 12mm marine plywood.
 
+In the making:
+
+![splitter-0](./splitter-0.png)
+
+On the car:
+
 ![splitter-1](./splitter-1.png)
 ![splitter-2](./splitter-2.png)
-![splitter-3](./splitter-3.png)
 ![splitter-4](./splitter-4.png)
 
 ## Bellow the car
+I tried to cover as much of the area bellow the car as I could. I used 0.8 aluminum sheet for that and created bracing
+that mounts on existing holes of the under-body.
+
+![splitter-3](./splitter-3.png)
 
 ## Rear of the car
+
+### Diffuser
+The under-body cover extends until the back of the car, and at about 55cm form the edge of
+the rear bumper, I have added a diffuser with 12* of angle at the left and right edges and 
+quite less angle in the middle because of the layout of my exhaust.
+
+In the making:
+
+![diffuser-1](diffuser-1.png)
+![diffuser-2](diffuser-2.png)
+
+On the car:
+
+<photo pending>
+
+### Rear wing
+I purchased I used wing and mount brackets from an AW11 owner (thanks AW11 community) and 
+made the necessary changes in order to mount it on the zzw30. The wing is a 9lives Big Wang
+66" wide. 
+
+![wing-1](wing-1.png)
+![wing-2](wing-2.png)
