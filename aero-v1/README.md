@@ -5,14 +5,14 @@ I spent the entire summer of 2023 building aero components for my zzw30. By enti
 from mid June to the start of August. Slow progress each day but by the end of this period I have crafted all the components
 that I had in mind. Well, almost all :)
 
-So let's see what I crafted.
+So let's see what is already done.
 
 ## Front of the car
 
 ### Radiator
 Up front, I started by tilting the radiator forward in order to have an angle "just like a WRC car". The idea is to 
 help the air be extracted from the hood. All air will go up and through the hood, so the turbulent air underneath the car
-will be reduced. The bracing and the hoses routing of the radiator had to be changed:
+will be reduced. The mounting and the hoses routing of the radiator had to be changed:
 
 ![radiator](./radiator-1.png)
 ![radiator](./radiator-2.png)
@@ -24,7 +24,7 @@ The area behind the bumper has changed so that all the air goes through the radi
 
 ### Getting air out of the radiator
 All the air (I hope) that gets through the radiator will exit at the top of the hood.
-I made the openings as far at the front and away from the windshield as possible in order to
+I made the openings as far away from the windshield as possible in order to
 take advantage of the low pressure air of this area and achieve a good level of extraction.
 
 ![hood-vent-1](./hood-vent-1.png)
@@ -74,6 +74,9 @@ In the making:
 On the car:
 
 <photo pending>
+
+When driving at the highway I observed ~10 to 15 C* increased oil temp. So I realized that I need some openings
+below in order to ventilate the oil pan (and the gearbox). I will add 3 NACA ducts for that purpose.
 
 ### Rear wing
 I purchased I used wing and mounting pylons from an AW11 owner (thanks to the AW11 community) and 
