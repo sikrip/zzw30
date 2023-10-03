@@ -76,7 +76,8 @@ On the car:
 <photo pending>
 
 When driving at the highway I observed ~10 to 15 C* increased oil temp. So I realized that I need some openings
-below in order to ventilate the oil pan (and the gearbox). I will add 3 NACA ducts for that purpose.
+below in order to ventilate the oil pan (and the gearbox). More on this [here](../oil-temps-highway/README.md).
+I will add 3 NACA ducts for that purpose.
 
 ### Rear wing
 I purchased I used wing and mounting pylons from an AW11 owner (thanks to the AW11 community) and 
