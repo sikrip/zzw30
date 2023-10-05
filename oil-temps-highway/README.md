@@ -1,4 +1,4 @@
-# Oil Temps / Highway driving
+# Oil Temps with Different Underbody Configurations
 
 ## Test & Measurements done
 Here I would like to compare the oil temps I observed during highway driving at around 100kph.
@@ -17,7 +17,8 @@ Moroso / No underbody:
 
 Moroso / Underbody without NACA ducts:
 
-![moroso-no-underbody](moroso-no-underbody.png)
+The temps with the closed underbody where +10 to +13 C* higher compared to the open underbody.
+The logs of this measurement are lost due to a bug of my raspberrypi/python script so you have to take my work for it :)
 
 2. The new oil pan lowered the oil temp by 8C*
 
