@@ -20,7 +20,7 @@ Here you can see the problem in action (observe the oil pressure reading):
 ## Possible causes
 I am using an older version of moroso pan. Also, I use the version that was usually sold to MR2 users.
 This version is shallow in the side close to the gearbox and was made like that in order to fit the 
-Celica cars with the 2zz engine. Also, this pan being an old design does not have the "diamond" baffles.
+Celica cars with the 2zz engine.
 
 This picture shows the two "versions" of moroso pans:
 
