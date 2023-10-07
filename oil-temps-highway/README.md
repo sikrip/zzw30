@@ -1,15 +1,15 @@
 # Oil Temps with Different Underbody Configurations
 
 ## Test & Measurements done
-Here I would like to compare the oil temps I observed during highway driving at around 100kph.
+Here I am comparing oil temps I observed during highway driving at around 100kph with different oil pans and under-body configurations.
 The "tests" include measurements with:
 
-* My old oil pan (early model celica - compatible moroso) with and without the rear underbody cover **completely closed**
-* My new GPAN3 oil pan without the underbody cover and with the cover **but with NACA ducts**
+* My old oil pan (early model, Celica-compatible, Moroso) without under-body cover and with the cover **completely closed**
+* My new GPAN3 oil pan without the under-body cover and with the cover **having 3 NACA ducts**
 
 ## Observations & Conclusions
 
-### 1. The underbody **without openings** increased the oil temp by more than 10C ###
+### 1. The under-body **without openings** increased the oil temp by more than 10C ###
 
 Moroso / No underbody:
 
@@ -29,12 +29,13 @@ That's why I added the NACA ducts.
 ![gpan3-no-underbody](gpan3-no-underbody.png)
 
 I have no idea why this is happening! Could be the different location of the temp sensor (the GPAN3 has the sensor at
-the firewall side, where the air hits the pan) but I do not know if this causes the differential in the temperature
-readings (or if the temp really is 8C* lower). Same for the pressure differential, I have no idea :)
-Could be a byproduct of the lowered oil temp. But it confirms that the oil temp is actually lower.
+the firewall side, where the air hits the pan) but I do not know if this affects the outcome.
+Same for the pressure differential, I have no idea :), could be a byproduct of the lowered oil temp.
 
-### 3. Oil temp with GPAN3 & the underbody having NACA ducts, are more or less the same with no underbody. ###
-The temp in this test was actually even lower than the completely open underbody. But the ambient temp was lower as you 
+I believe that the increased pressure confirms that the oil temp is actually lower (and not a false reading due to the sensor location).
+
+### 3. Oil temp with GPAN3 & the under-body having NACA ducts, are more or less the same with no under-body. ###
+The temp in this test was actually even lower than the completely open under-body. But the ambient temp was lower in this test as you 
 can see from the lower IAT.
 
 ![gpan3-underbody-naca](gpan3-underbody-naca.png)
@@ -43,8 +44,8 @@ So it looks like the NACA ducts work.
 
 Another proof that the air flow from the NACA ducts actually does cooldown the oil is the following:
 
-I stopped on traffic lights, the oil temp raised to 62C and then when I moved again the oil dropped to ~55C again
-(red line: oil temp, white: speed).
+When stopped on traffic lights, the oil temp raised from ~55C to ~62C and then when I moved again the temp dropped to ~55C again
+(red line: oil temp, white line: speed).
 
 ![gpan3-stop-start](gpan3-naca-stop-start.png)
 

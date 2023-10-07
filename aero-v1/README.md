@@ -86,11 +86,8 @@ So I added 3 NACA ducts as shown bellow. So far it looks that it ventilates the 
 As shown in the photo bellow, my diffuser design is compromised by the exhaust layout, but I will leave it like this for now.
 ![diffuser-4](diffuser-4.png)
 
-
-
-
 ### Rear wing
-I purchased I used wing and mounting pylons from an AW11 owner (thanks to the AW11 community) and 
+I purchased I used wing and mounting pylons from an AW11 owner (thank you AW11 community!) and 
 made the necessary changes in order to mount it on the zzw30. The wing is a 9lives Big Wang 66" wide. 
 
 ![wing-1](wing-1.png)
