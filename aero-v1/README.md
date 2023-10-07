@@ -73,11 +73,21 @@ In the making:
 
 On the car:
 
-<photo pending>
+![diffuser-3](diffuser-3.png)
 
-When driving at the highway I observed ~10 to 15 C* increased oil temp. So I realized that I need some openings
-below in order to ventilate the oil pan (and the gearbox). More on this [here](../oil-temps-highway/README.md).
-I will add 3 NACA ducts for that purpose.
+When driving at the highway with a completely closed underbody below the engine compartment I observed ~10 to 15C
+increased oil temp (more on this [here](../oil-temps-highway/README.md)).
+I realized that I need some openings below in order to ventilate the oil pan (and the gearbox).
+
+So I added 3 NACA ducts as shown bellow. So far it looks that it ventilates the area quite well.
+
+![naca-ducts](naca-ducts.png)
+
+As shown in the photo bellow, my diffuser design is compromised by the exhaust layout, but I will leave it like this for now.
+![diffuser-4](diffuser-4.png)
+
+
+
 
 ### Rear wing
 I purchased I used wing and mounting pylons from an AW11 owner (thanks to the AW11 community) and 
