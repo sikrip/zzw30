@@ -24,7 +24,7 @@ OK, the ambient temp was higher than the test above but still it is a significan
 This makes perfect sense since there was close to no air flow in the area.
 That's why I added the NACA ducts.
 
-### 2. The new oil pan lowered the oil temp by more than 10C & increased the oil press a bit ###
+### 2. GPAN3 lowered the oil temp by more than 10C & increased the oil press a bit ###
 
 ![gpan3-no-underbody](gpan3-no-underbody.png)
 
@@ -34,7 +34,7 @@ Same for the pressure differential, I have no idea :), could be a byproduct of t
 
 I believe that the increased pressure confirms that the oil temp is actually lower (and not a false reading due to the sensor location).
 
-### 3. Oil temp with GPAN3 & the under-body having NACA ducts, are more or less the same with no under-body. ###
+### 3. Oil temp with GPAN3 & the under-body having NACA ducts, is more or less the same with no under-body. ###
 The temp in this test was actually even lower than the completely open under-body. But the ambient temp was lower in this test as you 
 can see from the lower IAT.
 
