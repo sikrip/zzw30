@@ -41,7 +41,7 @@ And here are some shots of the hood openings.
 
 ### Splitter
 The splitter is a fairly simple one. Completely flat with a small angle of attack of 1 degree.
-The front lip from Luxurypart is used instead of an air dam. The splitter is made out of 12mm marine plywood.
+The front lip from Luxuryparts is used instead of an air dam. The splitter is made out of 12mm marine plywood.
 
 In the making:
 
