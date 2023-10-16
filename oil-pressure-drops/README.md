@@ -55,7 +55,7 @@ So maybe the best route should be to upgrade the pan and then if the problem per
 I installed the GPAN3 and tested on my local track. The results are encouraging.
 At this track with the previous oil pan the oil pressure was dropping at around 30 psi on left turns and bumps.
 
-This is no more true with the GPAN3 as shown bellow.
+This is no more true with the GPAN3 as shown bellow (red is GPAN3, blue is the old oil pan).
 ![new-vs-old-oil-press](./new-vs-old-oil-press.png)
 
 Points 1,2,4 are left turns and 3 is a prominent bump in the main straight of this track.
