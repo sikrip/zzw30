@@ -1,5 +1,10 @@
 # Oil Pressure Drops
 
+## TL;DR
+I used an older version moroso oil pan on my 2zz MR2 track car. On left turns the oil pressure was dropping significantly.
+The more the lateral Gs the more the pressure drop.
+I solved this issue by installing a GPAN3 oil pan.
+
 ## Findings
 When driving the car on track and despite the fact that I run a moroso oil pan on my 2zz I have observed that on
 **left turns** there is significant pressure drop.
@@ -44,3 +49,17 @@ According to moroso [the newer versions](https://www.komo-tec.com/en/lotus-exige
 * [BOE Fabrications TOC v1.1](https://www.boefab.com/products/toc-wet-sump-oil-pan-v1-1) (~900e including shipping and import charges)
 
 So maybe the best route should be to upgrade the pan and then if the problem persists to add an accusump in the system.
+
+## First Results with GPAN3
+
+I installed the GPAN3 and tested on my local track. The results are encouraging.
+At this track with the previous oil pan the oil pressure was dropping at around 30 psi on left turns and bumps.
+
+This is no more true with the GPAN3 as shown bellow.
+![new-vs-old-oil-press](./new-vs-old-oil-press.png)
+
+Points 1,2,4 are left turns and 3 is a prominent bump in the main straight of this track.
+GPAN3 never lets the oil pressure to drop bellow 50psi.
+
+It looks that the oil pressure drops case is closed for now :)
+
